@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "God of War Ragnarök",
+    "description": "Accion",
+    "price": 120,
+    "thumbnail": "/images/juego1.jpg",
+    "code": "01",
+    "stock": 25
+  }
+]
